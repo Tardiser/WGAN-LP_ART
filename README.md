@@ -20,7 +20,7 @@ Some of the outputs and their similarity scores can be seen in the pictures belo
 Please tell me this is a monster reading a book, because it's all I can see:
 ![image](https://user-images.githubusercontent.com/31456081/122655811-2b636f80-d15e-11eb-827c-f4c05f512486.png)
 
-Similar images for this output are wrong, because I wasn't able to calculate in a regular way and instead calculated it from a saved image:
+Similar images for this output are wrong, because I wasn't able to calculate in a regular way and instead calculated it from a saved image: \
 ![image](https://user-images.githubusercontent.com/31456081/122655828-4504b700-d15e-11eb-9ace-477ff963ee06.png)
 
 Yep, it's a bowl: \
